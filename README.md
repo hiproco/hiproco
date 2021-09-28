@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently a college student.
+I am currently learning Rust.
+
 <!--
 **hiproco/hiproco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
