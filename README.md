@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am currently a college student.
 I am currently learning Rust.
 
 <!--
